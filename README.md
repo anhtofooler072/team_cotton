@@ -1,2 +1,3 @@
 # team_cotton
-case study
+
+case study for life jacket
